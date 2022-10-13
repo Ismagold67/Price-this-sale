@@ -1,0 +1,49 @@
+body {
+    font: normal 18pt Arial;
+}
+label#txt1 {
+    padding-top: 7px;
+    padding-right: 52px;
+    text-align: right;
+    
+}
+label#txtn2 {
+    padding-top: 7px;
+    padding-right: 16px;
+    text-align: right;
+
+}
+label#txt4 {
+    padding-top: 7px;
+    padding-right: 13px;
+    text-align: right;
+    
+}    
+input {
+    font: normal 18pt Arial;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid black;
+    padding: 0px;
+    width: 100px;
+    margin-top: 20px;
+}
+input#txt31 {
+    font: normal 18pt Arial;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid black;
+    padding: 0;
+    width: 210px;
+}
+input#Calc {
+    font: normal 18pt Arial;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid black;
+    padding: 0;
+    width: 200px;
+}
+div#res {
+    margin-top: 20px;
+}
